@@ -1,10 +1,8 @@
-# PAAI_final_project
-Reproducing an image treatment article for Perception, acquisition et analyse d’images course at Paris Cite.
--TO DO
-Article to reproduce:
+This is a modified code from [this github repository](https://github.com/TeaPearce/Conditional_Diffusion_MNIST). In in I experiment with making illusions based on [this article](https://dangeng.github.io/visual_anagrams/)
+)
 ...
 
-Sources:
+Other sources:
 https://www.youtube.com/watch?v=w8YQcEd77_o
 
 https://www.cs.toronto.edu/~kriz/cifar.html
