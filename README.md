@@ -1,5 +1,6 @@
-This is a modified code from [this github repository](https://github.com/TeaPearce/Conditional_Diffusion_MNIST). In in I experiment with making illusions based on [this article](https://dangeng.github.io/visual_anagrams/)
-)
+This is a modified code from [this github repository](https://github.com/TeaPearce/Conditional_Diffusion_MNIST).
+
+In it I experiment with making illusions based on [this article](https://dangeng.github.io/visual_anagrams/)
 ...
 
 Other sources:
